@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CardStack","Card Stack to store the draw stack and the discard stack of a card type."]]});

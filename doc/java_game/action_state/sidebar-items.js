@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ActionState","The current action state. Contains the three phases and holds an u8 for the number of actions the player can still take in case of PlayerAction or the amount of cards that have to be drawn in case of the other options."]]});

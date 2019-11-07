@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["IslandTileInfo",""],["IslandTileState","The different states an island can be."]],"struct":[["IslandTile","Represents one of 24 island map tiles."]]});
