@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["black_white_island","Generate a valid black and white island."],["filled_island","Generate a random distribution of the 24 possible tiles on a black and white map."]]});

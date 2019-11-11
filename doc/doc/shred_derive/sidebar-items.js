@@ -1,1 +1,0 @@
-initSidebarItems({"derive":[["SystemData","Used to `#[derive]` the trait `SystemData`."]]});

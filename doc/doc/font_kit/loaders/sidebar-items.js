@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["freetype","A cross-platform loader that uses the FreeType library to load and rasterize fonts."]]});

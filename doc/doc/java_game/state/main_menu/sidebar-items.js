@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["MainMenu","The state representing the main menu"]]});

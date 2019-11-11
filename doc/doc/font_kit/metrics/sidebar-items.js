@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Metrics","Various metrics that apply to the entire font."]]});

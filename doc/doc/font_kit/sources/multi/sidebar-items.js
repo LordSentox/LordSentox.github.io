@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["MultiSource","A source that encapsulates multiple sources and allows them to be queried as a group."]]});

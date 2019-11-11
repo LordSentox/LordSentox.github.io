@@ -75,12 +75,12 @@
     <span class="doccomment">/// Create a new adventurer corresponding to this adventurer type</span>
     <span class="kw">pub</span> <span class="kw">fn</span> <span class="ident">create</span>(<span class="self">self</span>) <span class="op">-</span><span class="op">&gt;</span> <span class="ident">Box</span><span class="op">&lt;</span><span class="kw">dyn</span> <span class="ident">Adventurer</span><span class="op">&gt;</span> {
         <span class="kw">match</span> <span class="self">self</span> {
-            <span class="self">Self</span>::<span class="ident">Courier</span> <span class="op">=</span><span class="op">&gt;</span> <span class="ident">Box</span>::<span class="ident">new</span>(<span class="ident">Courier</span>::<span class="ident">new</span>()),
-            <span class="self">Self</span>::<span class="ident">Diver</span> <span class="op">=</span><span class="op">&gt;</span> <span class="ident">Box</span>::<span class="ident">new</span>(<span class="ident">Diver</span>::<span class="ident">new</span>()),
-            <span class="self">Self</span>::<span class="ident">Engineer</span> <span class="op">=</span><span class="op">&gt;</span> <span class="ident">Box</span>::<span class="ident">new</span>(<span class="ident">Engineer</span>::<span class="ident">new</span>()),
-            <span class="self">Self</span>::<span class="ident">Explorer</span> <span class="op">=</span><span class="op">&gt;</span> <span class="ident">Box</span>::<span class="ident">new</span>(<span class="ident">Explorer</span>::<span class="ident">new</span>()),
-            <span class="self">Self</span>::<span class="ident">Navigator</span> <span class="op">=</span><span class="op">&gt;</span> <span class="ident">Box</span>::<span class="ident">new</span>(<span class="ident">Navigator</span>::<span class="ident">new</span>()),
-            <span class="self">Self</span>::<span class="ident">Pilot</span> <span class="op">=</span><span class="op">&gt;</span> <span class="ident">Box</span>::<span class="ident">new</span>(<span class="ident">Pilot</span>::<span class="ident">new</span>())
+            <span class="self">Self</span>::<span class="ident">Courier</span> <span class="op">=</span><span class="op">&gt;</span> <span class="ident">Box</span>::<span class="ident">new</span>(<span class="ident">Courier</span>::<span class="ident">default</span>()),
+            <span class="self">Self</span>::<span class="ident">Diver</span> <span class="op">=</span><span class="op">&gt;</span> <span class="ident">Box</span>::<span class="ident">new</span>(<span class="ident">Diver</span>::<span class="ident">default</span>()),
+            <span class="self">Self</span>::<span class="ident">Engineer</span> <span class="op">=</span><span class="op">&gt;</span> <span class="ident">Box</span>::<span class="ident">new</span>(<span class="ident">Engineer</span>::<span class="ident">default</span>()),
+            <span class="self">Self</span>::<span class="ident">Explorer</span> <span class="op">=</span><span class="op">&gt;</span> <span class="ident">Box</span>::<span class="ident">new</span>(<span class="ident">Explorer</span>::<span class="ident">default</span>()),
+            <span class="self">Self</span>::<span class="ident">Navigator</span> <span class="op">=</span><span class="op">&gt;</span> <span class="ident">Box</span>::<span class="ident">new</span>(<span class="ident">Navigator</span>::<span class="ident">default</span>()),
+            <span class="self">Self</span>::<span class="ident">Pilot</span> <span class="op">=</span><span class="op">&gt;</span> <span class="ident">Box</span>::<span class="ident">new</span>(<span class="ident">Pilot</span>::<span class="ident">default</span>())
         }
     }
 

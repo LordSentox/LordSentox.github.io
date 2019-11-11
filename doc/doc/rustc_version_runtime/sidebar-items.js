@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["version","Returns the `rustc` SemVer version."],["version_matches","Check wether the `rustc` version matches the given SemVer version requirement."],["version_meta","Returns the `rustc` SemVer version and additional metadata like the git short hash and build date."]]});

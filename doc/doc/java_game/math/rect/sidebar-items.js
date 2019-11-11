@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Rect","Represents a Rectangle with the value type T."]]});

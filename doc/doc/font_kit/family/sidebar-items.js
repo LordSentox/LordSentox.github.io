@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Family","Defines a set of faces that vary in weight, width or slope."]]});

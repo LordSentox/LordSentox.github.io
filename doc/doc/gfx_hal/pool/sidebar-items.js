@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["CommandPool","Strong-typed command pool."],["CommandPoolCreateFlags","Command pool creation flags."]],"trait":[["RawCommandPool","The allocated command buffers are associated with the creating command queue."]]});

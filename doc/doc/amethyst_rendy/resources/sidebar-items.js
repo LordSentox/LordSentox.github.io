@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["AmbientColor","The ambient color of a scene"],["Tint","A single object tinting applied in multiplicative mode (modulation)"]]});

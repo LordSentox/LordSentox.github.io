@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["AutoFov","A component describing the behavior of the camera in accordance with the screen dimensions"],["AutoFovSystem","System that automatically adjusts the horizontal FOV based on the screen dimensions"]]});

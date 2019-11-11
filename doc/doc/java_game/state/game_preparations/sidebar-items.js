@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["GamePreparations","The state representing the game preparations settings screen, that is opened before starting a game. On this screen, a map and players can be selected"]]});

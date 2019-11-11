@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["TILE_HEIGHT",""],["TILE_SCALE",""],["TILE_WIDTH",""]],"fn":[["calculate_field_translation","Graphics helper function to convert the field position in a map to the actual screen position to the tile."]],"struct":[["FieldPosComp",""],["Full",""]]});

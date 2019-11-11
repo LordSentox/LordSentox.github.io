@@ -1,1 +1,0 @@
-initSidebarItems({"trait":[["Positionable","The item can be placed on a map."]]});

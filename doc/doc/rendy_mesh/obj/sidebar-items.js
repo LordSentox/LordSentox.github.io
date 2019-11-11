@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["load_from_obj","Load mesh data from obj."]]});

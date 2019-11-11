@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["MemSource","A source that keeps fonts in memory."]]});

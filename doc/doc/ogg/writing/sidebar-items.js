@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["PacketWriteEndInfo","Specifies whether to end something with the write of the packet."]],"struct":[["PacketWriter","Writer for packets into an Ogg stream."]]});

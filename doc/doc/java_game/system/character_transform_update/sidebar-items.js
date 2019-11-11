@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["CharacterTransformUpdate","Responsible for updating the transformations of the player characters based on the current position of them and the information available of the map they are playing on."]]});

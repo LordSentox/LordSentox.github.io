@@ -1,1 +1,0 @@
-initSidebarItems({"trait":[["RangeArg","Abstracts the std range types."]]});

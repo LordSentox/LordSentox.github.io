@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["game",""],["game_preparations",""],["high_scores",""],["main_menu",""],["map_editor",""],["settings",""]]});

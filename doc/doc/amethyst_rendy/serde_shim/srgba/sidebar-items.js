@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["deserialize","Deserialize Srgba type as tuple struct with four floats"],["serialize","Serialize Srgba type as tuple struct with four floats"]]});

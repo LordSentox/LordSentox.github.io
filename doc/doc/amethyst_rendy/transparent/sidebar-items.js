@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Transparent","Transparent mesh component"]]});

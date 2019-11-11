@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["Light","A light source."]],"struct":[["DirectionalLight","A directional light source."],["LightPrefab","Prefab for lighting"],["PointLight","A point light source. Uses the `Transform` set of components for positioning."],["SpotLight","A spot light source."],["SunLight","A realistic disk-shaped sun light source."]]});

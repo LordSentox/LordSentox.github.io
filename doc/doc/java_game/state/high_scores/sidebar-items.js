@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["HighScores","The state representing the High Scores window"]]});

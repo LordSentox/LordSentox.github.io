@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["character_transform_update",""],["collect_artefact",""],["drag_and_drop",""],["drain",""],["draw_card",""],["move_normal",""],["move_special",""],["rescue",""],["show_tile_options",""]]});

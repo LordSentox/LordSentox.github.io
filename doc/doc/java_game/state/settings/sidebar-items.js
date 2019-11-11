@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Settings","The state representing the settings window Music and Effect volume can be changed, and Developer Tools disabled or enabled here"]]});

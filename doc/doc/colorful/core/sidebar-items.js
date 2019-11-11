@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["color_string",""],["colors",""],["hsl",""],["rgb",""],["style",""],["symbols",""]],"trait":[["ColorInterface","`ColorInterface` is for basic trait for `Colorful`, `RGB`, `HSL` and `Color` implement this trait."],["StrMarker",""]]});
