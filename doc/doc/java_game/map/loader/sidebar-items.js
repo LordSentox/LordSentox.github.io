@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["load_map","Load a map from a file"],["save_map","Save a map from to file"]]});

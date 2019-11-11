@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["SPRITE_SCALE",""]],"struct":[["Character","A character is the playable instance of one player."]]});

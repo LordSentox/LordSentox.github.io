@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error",""]],"fn":[["bfs","Breadth first search Generic general purpose implementation of the breadth first search algorithm. Can be used as a basis for other algorithms that use breadth first search."],["reachable_positions","Find the positions that can be reached with a normal move set from the provided starting position."]]});
